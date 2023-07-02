@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dang Cap luonluon",
+      "price": "200"
+    },
+    {
+      "name": "Dao Van Loi",
+      "price": 300,
+      "id": 2
+    }
+  ]
+}
